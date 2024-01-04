@@ -1,5 +1,5 @@
 # Topic Modeling on Indian Tweets during COVID-19
-# # Achievements:
+## Achievements:
 
 - Successfully implemented Latent Dirichlet Allocation (LDA) and Latent Semantic Analysis (LSA) for topic modeling on a dataset of Indian tweets during the COVID-19 pandemic.
 - Processed and preprocessed the tweet data, handling NaN values, removing special characters and punctuation, and converting text to lowercase.
